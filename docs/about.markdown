@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi,
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Talal Tayyab. I live in Melbourne, Australia.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I've been involved in coding since the mid-90's where I used to play around on Commodore 64. However I got a true passion for development during my Computer Science degree.
 
+Creating software gives me great satisfaction and pleasure. Its more than a hobby. However once I start on a project, its very hard to put it down and ends up taking majority of my time.
 
-[jekyll-organization]: https://github.com/jekyll
+I am creating this place to note down my experiences, firstly for myself , and secondly to share with the wider community.
+
+Let's see how it goes!
