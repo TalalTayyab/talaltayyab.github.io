@@ -30,7 +30,7 @@ twitter_username: talaltayyab
 github_username:  talaltayyab
 
 # Build settings
-theme: jekyll-theme-modernist
+theme: minima
 plugins:
   - jekyll-feed
 
