@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "kChat - Chat application using Kafka and Blazor"
+title:  "kChat - Chat application using Kafka and Blazor - Part 1"
 date:   2021-08-29 08:52:17 +1000
 categories: kafka blazor
+tags: kafka blazor docker container C#
+author: Talal Tayyab
 ---
 Recently I got involved in learning more about Kafka and as usual I got lost after watching a few vidoes. So I thought the best way to learn is to create a simple application.
 
