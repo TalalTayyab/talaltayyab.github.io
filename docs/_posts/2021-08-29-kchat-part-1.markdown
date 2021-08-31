@@ -17,6 +17,8 @@ The list of topics is as follows.
 1. Creating Kafka Producer and Consumer
 1. Containerizing the application
 
+<a href="https://github.com/TalalTayyab/Kchat/tree/main" class="btn btn-github"><span class="icon"></span>View code in Github for part 1</a>
+
 ## Reasons
 
 Recently I got involved in learning more about Kafka and as usual I got bored after watching a few videos. So I thought the best way to learn is to create a simple application.

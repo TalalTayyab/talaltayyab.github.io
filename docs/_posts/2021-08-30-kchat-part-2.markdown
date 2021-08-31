@@ -19,7 +19,7 @@ The list of topics is as follows.
 
 ## Blazor app
 
-<a href="https://github.com/TalalTayyab/Kchat/tree/first" class="btn btn-github"><span class="icon"></span>View code on GitHub</a>
+<a href="https://github.com/TalalTayyab/Kchat/tree/first" class="btn btn-github"><span class="icon"></span>View code on GitHub for part 2</a>
 
 We are going to create a simple chat layout. First step is to create a new Blazor app using the `Blazor Server App` template. For more information on hosting models, read about those at [ASP.NET Core Blazor hosting models](https://docs.microsoft.com/en-us/aspnet/core/blazor/hosting-models?view=aspnetcore-5.0). In summary,
 
