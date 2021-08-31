@@ -23,7 +23,7 @@ Recently I got involved in learning more about Kafka and as usual I got bored af
 
 ### Why Chat ?
 
-Chat application is a good candidate for event streaming platform without requiring use of complex techniques like handling commits or being eventually consistent.
+Chat application is a good candidate for event streaming platform without requiring use of complex techniques like handling transactional commits, message delivery and being eventually consistent.
 
 ### Why Blazor ?
 
@@ -41,7 +41,7 @@ Branch|Description|
 [Second](https://github.com/TalalTayyab/Kchat/tree/second)|Add Kafka code
 [Third](https://github.com/TalalTayyab/Kchat/tree/third)|Add web project into docker compose to simulate multiple client instances
 
-Before I go any further, lets talk about set up.
+Before we go any further, lets talk about set up.
 
 ## Prerequisites
 
@@ -70,6 +70,8 @@ Note: Requires Docker with support for linux containers.
 1. Browse to [CloudKafka](https://www.cloudkarafka.com/plans.html)
 1. Scroll all the way down until you see Developer Duck Free account
 1. Follow through the process to get a free instance of Kafka.
+
+On to Part 2 [Creating the Blazor app]({% post_url 2021-08-30-kchat-part-2 %})
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
